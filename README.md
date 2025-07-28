@@ -55,7 +55,7 @@ Al iniciar sesión se implemento el CAPTCHA y se debe de introducir correctament
 
 ## CRUD de Usuarios
 
-Existen 4 niveles de usuario en nuestro programa: Administrador, Mesero, Cocinero (chef) y cajero. El administrador es el único que se encarga de Agregar, Eliminar, Visualizar y Actualizar los datos de los demás usuarios.
+Existen cuatro niveles de usuario en nuestro programa: Gerente, Mesero, Cocinero (chef) y cajero. El Gerente es el único que se encarga de Agregar, Eliminar, Visualizar y Actualizar los datos de los demás usuarios.
 
 <img src="./Imagenes/CRUD_USUARIOS.jpg" alt="CAPTCHA en Login" width="500"/>
 
@@ -63,7 +63,7 @@ Existen 4 niveles de usuario en nuestro programa: Administrador, Mesero, Cociner
 
 ## CRUD de Productos
 
-De igual forma el administrador se encarga de Agregar, Eliminar, Visualizar y Actualizar los datos de los platillos que se manejan en el restaurante.
+De igual forma el Gerente se encarga de Agregar, Eliminar, Visualizar y Actualizar los datos de los platillos que se manejan en el restaurante.
 
 <img src="./Imagenes/CRUD_PRODUCTOS.jpg" alt="CAPTCHA en Login" width="500"/>
 
@@ -73,20 +73,20 @@ De igual forma el administrador se encarga de Agregar, Eliminar, Visualizar y Ac
 
 Administración de personal en un restaurante
 
-Administrador-Se encarga de registrar nuevos usuarios/platillos, y estos mismos, eliminarlos, visualizarlos y actualizarlos
+- Gerente - Se encarga de registrar nuevos usuarios/platillos, y estos mismos, eliminarlos, visualizarlos y actualizarlos
 
 <img src="./Imagenes/CRUD_USUARIOS.jpg" alt="CAPTCHA en Login" width="500"/>       <img src="./Imagenes/CRUD_PRODUCTOS.jpg" alt="CAPTCHA en Login" width="500"/>
 
 
--Cocineros – Se encarga de actualizar el estado de los pedidos creados
+- Cocineros – Se encarga de actualizar el estado de los pedidos creados
 
 <img src="./Imagenes/Panel_cocinero.jpg" alt="CAPTCHA en Login" width="500"/>
 
--Cajeros - Se encargan de generar los tickets de los pedidos y recibir los pagos de los clientes.
+- Cajeros - Se encargan de generar los tickets de los pedidos y recibir los pagos de los clientes.
 
 <img src="./Imagenes/Panel_Cajero.jpg" alt="CAPTCHA en Login" width="500"/>
 
--Mesero - Se encarga de actualizar los pedidos realizados en el sistema 
+- Mesero - Se encarga de actualizar los pedidos realizados en el sistema 
 
 <img src="./Imagenes/Panel_Mesero.jpg" alt="CAPTCHA en Login" width="500"/>
 
@@ -125,6 +125,7 @@ Al igual que en el envío de PDF al momento de agregar un nuevo usuario al siste
 
 
 ---
+
 Nombre de librerías externas utilizadas 
 
 - CaptchaCadenas.jar – Equipo 2
