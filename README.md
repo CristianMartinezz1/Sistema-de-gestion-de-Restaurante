@@ -36,6 +36,8 @@ Desarrollar una aplicación de escritorio que permita gestionar las operaciones 
 
 Se integra la libreria“CorreoElectronico” del equipo 2 para envió de correos electrónicos - https://github.com/olmomomo/Libreria_correoElectronico. 
 
+Ademas de la libreria "ENvio de Correos con Archivos Adjuntos" del equipo 2 - https://github.com/olmomomo/Libreria_correoElectronico.
+
 ---
 
 ## Componente Visual Implementado 
