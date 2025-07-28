@@ -117,7 +117,9 @@ Finalmente, el PDF se guarda en el equipo local, listo para ser enviado por corr
 
 Al igual que en el envío de PDF al momento de agregar un nuevo usuario al sistema, de igual forma al momento de realizar un pago de algún platillo se le proporciona el ticket a la persona, mediante su correo electrónico, todo esto con el fin de que el usuario tenga un respaldo de lo que consumió en el restaurante. 
 
-<img src="./Imagenes/Panel_Cajero.jpg" alt="CAPTCHA en Login" width="500"/>   
+<img src="./Imagenes/Panel_Cajero.jpg" alt="CAPTCHA en Login" width="500"/>   <img src="./Imagenes/CORREO_TICKET.jpg" alt="CAPTCHA en Login" width="500"/>   
+
+<img src="./Imagenes/PDF_TICKET.jpg" alt="CAPTCHA en Login" width="500"/>   
 
 
 ---
