@@ -34,8 +34,15 @@ Desarrollar una aplicación de escritorio que permita gestionar las operaciones 
 
 ## 📚 Librería Externa Implementada
 
-🔗 Se integra la librería **“CorreoElectronico”** desarrollada por el **Equipo 2**, para el **envío automático de correos electrónicos** al realizar ciertas acciones dentro del sistema.
+Se integra la libreria“CorreoElectronico” del equipo 2 para envió de correos electrónicos - https://github.com/olmomomo/Libreria_correoElectronico. 
 
 ---
+
+## Componente Visual Implementado 
+
+Usamos el componente visual “CAPTCHA” del equipo 2 - https://github.com/FanyBr07/ComponenteVisual.
+
+---
+
 
 
