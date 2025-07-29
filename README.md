@@ -57,7 +57,7 @@ Al iniciar sesión se implemento el CAPTCHA y se debe de introducir correctament
 
 Existen cuatro niveles de usuario en nuestro programa: Gerente, Mesero, Cocinero (chef) y cajero. El Gerente es el único que se encarga de Agregar, Eliminar, Visualizar y Actualizar los datos de los demás usuarios.
 
-<img src="./Imagenes/CRUD_USUARIOS.jpg" alt="CAPTCHA en Login" width="500"/>
+<img src="./Imagenes/CRUD_USUARIOS2.jpg" alt="CAPTCHA en Login" width="500"/>
 
 ---
 
@@ -65,7 +65,7 @@ Existen cuatro niveles de usuario en nuestro programa: Gerente, Mesero, Cocinero
 
 De igual forma el Gerente se encarga de Agregar, Eliminar, Visualizar y Actualizar los datos de los platillos que se manejan en el restaurante.
 
-<img src="./Imagenes/CRUD_PRODUCTOS.jpg" alt="CAPTCHA en Login" width="500"/>
+<img src="./Imagenes/CRUD_PRODUCTOS2.jpg" alt="CAPTCHA en Login" width="500"/>
 
 ---
 
@@ -75,20 +75,20 @@ Administración de personal en un restaurante
 
 - Gerente - Se encarga de registrar nuevos usuarios/platillos, y estos mismos, eliminarlos, visualizarlos y actualizarlos
 
-<img src="./Imagenes/CRUD_USUARIOS.jpg" alt="CAPTCHA en Login" width="500"/>       <img src="./Imagenes/CRUD_PRODUCTOS.jpg" alt="CAPTCHA en Login" width="500"/>
+<img src="./Imagenes/CRUD_USUARIOS2.jpg" alt="CAPTCHA en Login" width="500"/>       <img src="./Imagenes/CRUD_PRODUCTOS2.jpg" alt="CAPTCHA en Login" width="500"/>
 
 
 - Cocineros – Se encarga de actualizar el estado de los pedidos creados
 
-<img src="./Imagenes/Panel_cocinero.jpg" alt="CAPTCHA en Login" width="500"/>
+<img src="./Imagenes/Panel_cocinero2.jpg" alt="CAPTCHA en Login" width="500"/>
 
 - Cajeros - Se encargan de generar los tickets de los pedidos y recibir los pagos de los clientes.
 
-<img src="./Imagenes/Panel_Cajero.jpg" alt="CAPTCHA en Login" width="500"/>
+<img src="./Imagenes/Panel_Cajero2.jpg" alt="CAPTCHA en Login" width="500"/>
 
 - Mesero - Se encarga de actualizar los pedidos realizados en el sistema 
 
-<img src="./Imagenes/Panel_Mesero.jpg" alt="CAPTCHA en Login" width="500"/>
+<img src="./Imagenes/Panel_Mesero2.jpg" alt="CAPTCHA en Login" width="500"/>
 
 
 ---
@@ -119,9 +119,9 @@ Finalmente, el PDF se guarda en el equipo local, listo para ser enviado por corr
 
 Al igual que en el envío de PDF al momento de agregar un nuevo usuario al sistema, de igual forma al momento de realizar un pago de algún platillo se le proporciona el ticket a la persona, mediante su correo electrónico, todo esto con el fin de que el usuario tenga un respaldo de lo que consumió en el restaurante. 
 
-<img src="./Imagenes/Panel_Cajero.jpg" alt="CAPTCHA en Login" width="500"/>   <img src="./Imagenes/CORREO_TICKET.jpg" alt="CAPTCHA en Login" width="500"/>   
+<img src="./Imagenes/Panel_Cajero2.jpg" alt="CAPTCHA en Login" width="500"/>   <img src="./Imagenes/CORREO_TICKET2.jpg" alt="CAPTCHA en Login" width="500"/>   
 
-<img src="./Imagenes/PDF_TICKET.jpg" alt="CAPTCHA en Login" width="500"/>   
+<img src="./Imagenes/PDF_TICKET2.jpg" alt="CAPTCHA en Login" width="500"/>   
 
 
 ---
